@@ -12,11 +12,7 @@ const data = [
 ## The Data
 
 `1_Rara_Bali_2_0_17` \
-`<id>_<name>_<city>_<gender>_<status>_<age>`
-
-
-
-## Features
+`<id>_<name>_<city>_<gender>_<status>_<age>` \
 
 - id: user id
 - name: user name
