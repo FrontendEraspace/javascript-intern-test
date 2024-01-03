@@ -1,15 +1,11 @@
 # JS Itern Test
 
-
 ```python
 const data = [
     "1_Rara_Bali_2_0_17",
     "2_Nisa_Bali_2_1_16"
 ]
 ```
-
-
-## The Data
 
 `1_Rara_Bali_2_0_17` \
 `<id>_<name>_<city>_<gender>_<status>_<age>` 
