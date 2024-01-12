@@ -1,5 +1,7 @@
 # JS Itern Test
 
+Below we have a simple example of students data from Bali.
+
 ```javascript
 const data = [
     "1_Rara_Bali_2_0_17",
@@ -7,7 +9,8 @@ const data = [
 ]
 ```
 
-`1_Rara_Bali_2_0_17` \
+we can tell the data contains the following information
+
 `<id>_<name>_<city>_<gender>_<status>_<age>`
 
 - id: user id
@@ -19,6 +22,9 @@ const data = [
 - status: user status active or not active
   - 0 Not Active
   - 1 Active
+
+## User Stroy
+As a programmer, I want to be able to extract the students data using Javascript, so that I can have a better report in the table. 
 
 ## Expected Result
 
