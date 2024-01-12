@@ -23,7 +23,7 @@ we can tell the data contains the following information
   - 0 Not Active
   - 1 Active
 
-## User Stroy
+## User Story
 As a programmer, I want to be able to extract the students data using Javascript, so that I can have a better report in the table. 
 
 ## Expected Result
