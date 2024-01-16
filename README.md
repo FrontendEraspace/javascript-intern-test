@@ -1,4 +1,4 @@
-# JS Itern Test
+# JS Test 1
 
 Below we have a simple example of students data from Bali.
 
